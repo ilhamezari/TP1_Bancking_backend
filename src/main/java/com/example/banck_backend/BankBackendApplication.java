@@ -8,6 +8,9 @@ public class BanckBackendApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(BanckBackendApplication.class, args);
+
+
+
     }
 
 }
